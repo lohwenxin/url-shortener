@@ -1,5 +1,6 @@
 # url-shortener
 This project is a DIY URL-shortener that helps the user shorten a URL, keep track of all URLs to shorten, as well as the number of clicks per shortened URL.
+![Screenshot](images/url-shortener.JPG.png)
 
 
 ## Installation
